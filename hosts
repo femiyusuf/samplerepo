@@ -53,9 +53,3 @@
 10.0.0.133 mariams-macbook-air
 
 broadcast 10.0.0.255
-
-# This entry was appended by Docker Desktop because `localhost` did not resolve
-# to a list of addresses which included 127.0.0.1. This can happen due to a bug
-# BEGIN section for OpenVPN Client SSL sites
-127.94.0.1	client.openvpn.net
-# END section for OpenVPN Client SSL sites
