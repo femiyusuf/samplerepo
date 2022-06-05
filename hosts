@@ -1,0 +1,60 @@
+
+# Added by Docker Desktop
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+
+#10.0.0.93 ubuntudt.attlocal.net ubuntudt
+10.0.0.190 ubuntudt.attlocal.net ubuntudt
+10.0.0.82 t420ubuntu
+10.0.0.214 mymacbook.local mymacbook
+
+# Xfinity Gateway
+10.0.0.1 xfinitygateway
+
+# guestroomtv samsung
+10.0.0.152 guestroomtv
+
+# sony-playStation-4
+10.0.0.155 sony-playstation-4
+
+# LivingRoomTV Sony XBR-85X900H
+10.0.0.5 livingroomtv
+
+# windows_7
+10.0.0.49 windows_7
+
+# windows_7_wireless
+10.0.0.72 windows_7_wireless
+
+# canonprinter
+10.0.0.183 canonprinter
+
+# iPhone-A1921-Musa-d35e
+10.0.0.139 iPhone-A1921-Musa-d35e
+
+# IPhone7-3333-sarah
+10.0.0.221 iPhone7-3333-sarah
+
+# iPhone-adam-05E6
+10.0.0.236 iPhone-adam-05E6
+
+# IPhone7-3092-adam-e
+10.0.0.65 iPhone7-3092-adam-e
+
+# Galaxy-J7
+10.0.0.180 galaxy-J7
+
+# adams-laptop
+10.0.0.145 adams-laptop
+
+# Mariams-Air
+10.0.0.133 mariams-macbook-air
+
+broadcast 10.0.0.255
+
+# This entry was appended by Docker Desktop because `localhost` did not resolve
+# to a list of addresses which included 127.0.0.1. This can happen due to a bug
+# BEGIN section for OpenVPN Client SSL sites
+127.94.0.1	client.openvpn.net
+# END section for OpenVPN Client SSL sites
